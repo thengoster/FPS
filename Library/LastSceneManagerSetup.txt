@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/damon/Downloads/UiA_code/ch06/Assets/Scene.unity
+- path: Assets/Scenes/whitebox.unity
   isLoaded: 1
   isActive: 1
